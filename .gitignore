@@ -1,2 +1,3 @@
 # 忽略模型
 /model
+*.ipynb_checkpoints/
