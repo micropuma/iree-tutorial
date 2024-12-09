@@ -1,0 +1,1 @@
+iree-compile --iree-hal-target-backends=llvm-cpu --iree-llvmcpu-target-cpu=host 1Delementwise.mlir -o 1Delementwise.vmfb
