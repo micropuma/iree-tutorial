@@ -1,0 +1,1 @@
+iree-opt --convert-elementwise-to-linalg math.mlir --verify-diagnostics
