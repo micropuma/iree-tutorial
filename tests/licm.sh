@@ -1,0 +1,1 @@
+iree-opt --pass-pipeline="builtin.module(func.func(iree-global-opt-loop-invariant-code-motion,cse))" LICM.mlir
